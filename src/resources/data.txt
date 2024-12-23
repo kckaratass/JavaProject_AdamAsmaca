@@ -1,0 +1,5 @@
+hayvan,Aslan,Zebra,Fil,kedi,Kaplan,Panda,
+spor,Basketbol,Tenis,Futbol,Badminton,Voleybol,Golf,
+meyve, Muz,Portakal,Elma,Karpuz,Mango,Domates,
+dızı, Breaking Bad, Prison Break, Ezel
+sehır, Ankara,Bolu,Kars,Zonguldak
